@@ -2,4 +2,3 @@
 include device/qcom/gen4_gvm_gy/BoardConfig.mk
 
 TARGET_ARCH := arm64
-TARGET_2ND_ARCH := arm
